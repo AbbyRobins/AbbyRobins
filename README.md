@@ -22,7 +22,7 @@
   <h2>Career Goals</h2>
     <ul>
       <li>Work at a design firm or studio to gain expertise in the industry</li>
-      <li>Start my own business(es) to sell the designs I create, whether that be digital products, apparel, accessories, or printed artwork.</li>
+      <li>Start my own business(es) to sell the designs I create, whether that be digital products, apparel, accessories, or printed artwork</li>
     </ul>
 </section>
 <section> <!--education-->
@@ -49,4 +49,8 @@
         <td>2021 - 2024</td>
       </tr>
     </table>
+</section>
+<section> <!--fun fact-->
+  <h2>Fun Fact</h2>
+    <p>I did freelancing for the first time this summer and learned a lot about working with clients. I created various custom sets of streaming graphics, which allowed me to experiment with branding. Although it could use some improvement, I made a WIX website to sell my pre-made stream graphics and you can check it out <a href="https://mrszingergraphics.wixsite.com/mrszinger-graphics/gradient-series">here</a> if you want to!</p>
 </section>

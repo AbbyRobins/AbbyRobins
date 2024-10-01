@@ -27,7 +27,7 @@
 </section>
 <section> <!--education-->
   <h2>:small_orange_diamond: Education</h2>
-    <table style="margin-left:15px">
+    <table>
       <tr>     <!--table headers-->
         <th>Program</th>
         <th>Institution</th>

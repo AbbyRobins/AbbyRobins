@@ -8,7 +8,7 @@
       <li>Proficient in Adobe Illustrator</li>
       <li>Adequate experience with Adobe After Effects</li>
       <li>Some experience with Adobe Photoshop</li>
-      <li>Some understanding of creating brands</li>
+      <li>Some experience with creating brands</li>
     </ul>
 </section>
 <section> <!--goals-->

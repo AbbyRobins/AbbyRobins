@@ -25,3 +25,28 @@
       <li>Start my own business(es) to sell the designs I create, whether that be digital products, apparel, accessories, or printed artwork.</li>
     </ul>
 </section>
+<section> <!--education-->
+  <h2>Education</h2>
+    <table>
+      <tr>     <!--table headers-->
+        <th>Program</th>
+        <th>Institution</th>
+        <th>Date</th>
+      </tr>
+      <tr>     <!--SAIT, IDD-->
+        <td>Interactive Design Diploma</td>
+        <td>SAIT</td>
+        <td>2024 - present</td>
+      </tr>
+      <tr>     <!--UofC, CG-->
+        <td>Certificate in Graphic Design</td>
+        <td>University of Calgary</td>
+        <td>2023 - present</td>
+      </tr>
+      <tr>     <!--UofC, BFA-->
+        <td>Bachelor of Fine Arts,<br>Visual Studies</td>
+        <td>University of Calgary</td>
+        <td>2021 - 2024</td>
+      </tr>
+    </table>
+</section>
